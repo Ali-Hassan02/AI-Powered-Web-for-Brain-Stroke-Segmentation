@@ -1,0 +1,8 @@
+flask
+flask-cors
+torch
+nibabel
+numpy
+monai
+pillow
+matplotlib
